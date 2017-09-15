@@ -1,7 +1,7 @@
 # Petercam-team2
 
 
-- home : Jo
+- Home : Jo
 - mission : Safia
 - challenge : Miriam
 - skills-based sponsorship : Salvatore
