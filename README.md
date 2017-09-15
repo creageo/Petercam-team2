@@ -3,6 +3,6 @@
 
 - home : Jo
 - mission : Safia
-- challenge : Challenge
+- challenge : Miriam
 - skills-based sponsorship : Salvatore
 - contact : Jo
